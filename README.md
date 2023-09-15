@@ -1,11 +1,8 @@
 # • Every Discord Text List
 -----------------------
 
-# Discord Text Style
-
-## ## Italics
 -----------------------
-## ## Headers
+## Headers
 
 # # TEKS
 image:
