@@ -3,7 +3,7 @@
 
 # Discord Text Style
 
-## Italics
+## ## Italics
 -----------------------
 ## Headers
 
