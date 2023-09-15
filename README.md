@@ -4,7 +4,7 @@
 -----------------------
 ## Headers
 
-# # TEKS
+- #ㅤTEKS
 image:
 ![Image](https://github.com/RamaTheDL/DiscordFont/blob/main/Image/20230915_131648.png)
 
